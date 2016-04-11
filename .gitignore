@@ -4,7 +4,6 @@
 
 !cfg/
 cfg/*
-!cfg/test.txt
 !cfg/autoexec.cfg
 
 !custom/
