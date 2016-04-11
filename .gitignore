@@ -11,3 +11,4 @@ cfg/*
 !custom/*/
 custom/workshop/
 !custom/*/*
+custom/readme.txt
